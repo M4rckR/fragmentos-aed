@@ -1,6 +1,6 @@
 <mjml>
     <mj-body background-color="#F2F4F8" width="600px">
-        <mj-section background-color="#ffffff">
+        <mj-section background-color="#ffffff" padding="0">
             <mj-column
                 width="416px"
                 background-color="#eaf1fb"
