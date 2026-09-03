@@ -1,0 +1,46 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#ffffff">
+            <mj-column
+                background-color="#eaf1fb"
+                border="1px solid #70A9FF"
+                border-radius="12px"
+                padding="16px"
+            >
+                <mj-text
+                    align="center"
+                    font-family="arial"
+                    font-weight="700"
+                    font-size="16px"
+                    line-height="24px"
+                    color="#202E44"
+                    padding="0"
+                >
+                    Tienes un monto preaprobado de:
+                </mj-text>
+                <mj-text
+                    align="center"
+                    font-family="arial"
+                    font-weight="700"
+                    font-size="48px"
+                    line-height="56px"
+                    color="#002A8D"
+                >
+                    {S/XXXX}
+                </mj-text>
+                <mj-text
+                    align="center"
+                    font-family="arial"
+                    font-weight="400"
+                    font-size="16px"
+                    line-height="24px"
+                    color="#202E44"
+                    padding-top="0"
+                    padding-bottom="0"
+                >
+                    Vigente hasta el 31 de enero de 2026.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

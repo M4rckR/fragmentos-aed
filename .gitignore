@@ -1,0 +1,9 @@
+node_modules/
+
+# Documentos completos generados por compilar-fragmento.js (intermedios de revision).
+# Se regeneran con: node compilar-fragmento.js <archivo>.mjml
+*.full.html
+
+# Sistema operativo / editores
+.DS_Store
+*.log
