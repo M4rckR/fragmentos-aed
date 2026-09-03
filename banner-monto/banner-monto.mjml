@@ -1,7 +1,8 @@
 <mjml>
-    <mj-body>
+    <mj-body background-color="#F2F4F8" width="600px">
         <mj-section background-color="#ffffff">
             <mj-column
+                width="416px"
                 background-color="#eaf1fb"
                 border="1px solid #70A9FF"
                 border-radius="12px"
