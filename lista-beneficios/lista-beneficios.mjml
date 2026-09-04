@@ -1,0 +1,47 @@
+<mjml>
+  <mj-body background-color="#F2F4F8" width="600px">
+
+    <!-- Bloque 1: título "Recuerda que:" -->
+    <mj-section background-color="#FFFFFF" padding="16px 24px 0 24px">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-family="Arial, Helvetica, sans-serif"
+          font-weight="bold"
+          font-size="20px"
+          line-height="28px"
+          color="#002A8D"
+          padding="0"
+        >
+          Recuerda que:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Bloque 2: ícono check + texto, mismo blanco, sin padding arriba para que se vea continuo -->
+    <mj-section background-color="#FFFFFF" padding="0 24px 16px 24px">
+      <mj-column width="30px" vertical-align="top" padding="4px 0 0 0">
+        <mj-image
+          src="https://bcp-mid-stage13-res.adobe-campaign.com/res/tracking/f149a525db4248a7af5c2bdd3b7b6e29.png"
+          alt="check"
+          width="12px"
+          height="9px"
+          padding="0"
+        />
+      </mj-column>
+      <mj-column vertical-align="top" padding="0 0 0 8px">
+        <mj-text
+          align="left"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="16px"
+          line-height="120%"
+          color="#000000"
+          padding="0"
+        >
+          ¡Inscríbete para ganar! Participan todos nuestros clientes invitados que se registren durante la campaña.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
